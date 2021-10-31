@@ -1,4 +1,4 @@
-#Visite virtuelle des jardins partagés de Pau
+# Visite virtuelle des jardins partagés de Pau
 
 ## Pourquoi ?
 Cette visite virtuelle a été réalisée dans le cadre d'un cours de L2 en Géographie et Aménagement.
